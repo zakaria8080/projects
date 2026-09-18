@@ -1,0 +1,11 @@
+const prompt = require('prompt-sync')();
+const a = prompt("what is your last name : ");
+const b = prompt("what is your name : ");
+const c = Number(prompt("what is your age : "));
+const d = prompt("what is your sexe : ");
+const e = prompt("what is your adress email : ");
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);

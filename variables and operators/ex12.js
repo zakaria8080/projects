@@ -1,0 +1,12 @@
+const prompt = require('prompt-sync')();
+let a = Number(prompt("type number a : "));
+var bb = a / 1000;
+var bb = a % 1000;
+var cc = a / 100;
+var cc = a % 100;
+var dd = a / 10;
+var dd = a % 10;
+let c = a;
+let d = a;
+let b = cc;
+console.log(a, b, c, d);
